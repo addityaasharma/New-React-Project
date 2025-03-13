@@ -5,7 +5,6 @@ My Project Structure
  ├── /src
  │   ├── /components
  │   │   ├── Sidebar.js
- │   │   ├── CustomerList.js
  │   │   ├── CustomerForm.js
  │   │   ├── CustomerStats.js
  │   ├── /pages
