@@ -13,8 +13,6 @@ My Project Structure
  │   │   ├── CustomerStatsPage.js
  │   ├── /context
  │   │   ├── CustomerContext.js
- │   ├── /styles
- │   │   ├── styles.css   <-- 🎨 Custom CSS File
  │   ├── App.js
  │   ├── index.js
  │   ├── index.css
