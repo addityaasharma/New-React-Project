@@ -1,0 +1,2 @@
+Dependencies for the react router dom, tailwind and json server in my project
+>>npm install axios react-router-dom tailwindcss json-server
